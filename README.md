@@ -1,1 +1,2 @@
 In this repository I have uploaded all the open access outputs of my project. The JuPyter Notebook created in this project will be provided only upon request. In the open access outputs of my project you will find a Technical Report of the findings and some slides that summarize the key findings briefly. I cannot give access to data since they don't belong to me. 
+The notebook was uploaded in this private repository: https://github.com/KalliopiKall/DH-KK-PRIVATE.git
